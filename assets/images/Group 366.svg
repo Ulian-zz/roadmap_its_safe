@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="251" viewBox="0 0 180 251">
+  <g id="Group_366" data-name="Group 366" transform="translate(-105 -267)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(120 267)">
+      <g id="list">
+        <rect id="Rectangle_650" data-name="Rectangle 650" width="150" height="150" transform="translate(150 150) rotate(180)" fill="#f2efe9" opacity="0"/>
+        <circle id="Ellipse_53" data-name="Ellipse 53" cx="6" cy="6" r="6" transform="translate(19 38)" fill="#f2efe9"/>
+        <circle id="Ellipse_54" data-name="Ellipse 54" cx="6" cy="6" r="6" transform="translate(19 69)" fill="#f2efe9"/>
+        <ellipse id="Ellipse_55" data-name="Ellipse 55" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(19 100)" fill="#f2efe9"/>
+        <rect id="Rectangle_651" data-name="Rectangle 651" width="87" height="12" rx="0.94" transform="translate(44 69)" fill="#f2efe9"/>
+        <rect id="Rectangle_652" data-name="Rectangle 652" width="87" height="13" rx="0.94" transform="translate(44 100)" fill="#f2efe9"/>
+        <rect id="Rectangle_653" data-name="Rectangle 653" width="87" height="12" rx="0.94" transform="translate(44 38)" fill="#f2efe9"/>
+      </g>
+    </g>
+    <text id="Taskzy" transform="translate(195 501)" fill="#f2efe9" font-size="49" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="-89" y="0">Taskzy</tspan></text>
+  </g>
+</svg>
